@@ -2,8 +2,7 @@
 # Password-Generator
 This project is a Java Console Application to generate Random passwords and performing a password strength check.
 
-I decided to build this project after my JEE Adv. got over. I was first trying to make a program which will tell the time taken to crack you password using brute force  
-method but I distracted myself for creating a strong password which will be hard to crack so here it is. I looking forward to add that feature in  near future.
+I decided to build this project after my JEE Adv. got over. I was first trying to make a program which will tell the time taken to crack you password using brute force method but I distracted myself for creating a strong password which will be hard to crack so here it is. I looking forward to add that feature in  near future.
 
 Functionalities:
 
@@ -12,7 +11,7 @@ Functionalities:
 * The user must answer by Yes or No the questions to know if he desires to use Uppercase/Lowercase letters, Numbers or Symbols 
 * The user then enters the desired length of the password
 * A password alphabet is generated according to the Yes/No answers it is a String that contains the choices of the user
-* Depending on the length random characters from the password alphabet are selected and put back to back to form a totally random string according to the user's needs
+* Depending on the length random characters from the password alphabet are selected and put back to back to form a totally random string.
 * The randomly generated password is then displayed on the console
 
 2- Checking a Password's Strength:
